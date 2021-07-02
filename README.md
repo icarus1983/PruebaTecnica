@@ -60,7 +60,7 @@ No considere tokens de seguridad, o autenticación. En la vista utilice todos lo
 ***
 **Información importante para la entrega**
 
-Debe crear una rama a partir de master con las inciales de su nombre, debe informar al correo **gzuleta@multisf.cl** que inicia la tarea, e informar a este mismo correo cuando finalice. El plazo considerado para que pueda realizar esta labor es de 24 horas, a partir del aviso de inicio. También puede contactarse a ese correo para recibir orientación adicional en caso de dudas.
+Debe crear una rama a partir de master con las inciales de su nombre, debe informar a los correos **gzuleta@multisf.cl** y **sgonzalez@multisf.cl**, que inicia la tarea, e informar a estos mismos correos cuando finalice. El plazo considerado para que pueda realizar esta labor es de 24 horas, a partir del aviso de inicio. También puede contactarse a estos mismos correos para recibir orientación adicional en caso de dudas.
 
 agradeciendo su postulación al cargo, y el tiempo que otorga a esta actividad.
 
