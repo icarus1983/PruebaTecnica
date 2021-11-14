@@ -26,9 +26,9 @@ namespace PruebaTecnica.Controllers
         [HttpGet]
         public IEnumerable<Persona> GetPersonas()
         {
-            var Personas = context.Persona.OrderBy(p => p.Nombre).ToList();
+            
 
-            return Personas;
+            return  context.Persona.ToList(); 
 
         }
 

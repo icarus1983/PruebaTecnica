@@ -8,20 +8,20 @@ namespace PruebaTecnica.Models
     {
         public Guid Id { get; set; }
         public string Run { get; set; }
-        [Required(ErrorMessage = "El cuerpo del rut es requerido")]
+        [Required]
         public int RunCuerpo { get; set; }
-        [Required(ErrorMessage = "El digito verificador es requerido")]
+        [Required]
         public string RunDigito { get; set; }
         public string Nombre { get; set; }
-        [Required(ErrorMessage = "Los Nombres son requeridos")]
+        [Required]
         public string Nombres { get; set; }
-        [Required(ErrorMessage = "El apellido paterno es requerido")]
+        [Required]
         public string ApellidoPaterno { get; set; }
         public string ApellidoMaterno { get; set; }
         public string Email { get; set; }
-        [Required(ErrorMessage = "El codigo de sexo es requerido")]
+        [Required]
         public short SexoCodigo { get; set; }
-        [Required(ErrorMessage = "La fecha de nacimiento es requerida")]
+        
         public DateTime? FechaNacimiento { get; set; }
         public short? RegionCodigo { get; set; }
         public short? CiudadCodigo { get; set; }
